@@ -1,7 +1,7 @@
 # Cozmos Curator
 
 Lets Claude build and edit 3D spherical websites in [Cozmos](https://cozmos.com) Curator, the 3D website builder at [publishingtools.cozmos.com](https://publishingtools.cozmos.com/).
-Claude works through the MCP tools Curator registers on the page (WebMCP). It can upload assets and design your sphere entirely autonomously!
+Claude works through the WebMCP tools built into the Curator web page. It can upload assets and design your sphere entirely autonomously!
 
 New to Curator? See the [Cozmos knowledge base](https://learn.cozmos.com/).
 

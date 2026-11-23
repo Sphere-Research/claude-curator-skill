@@ -1,12 +1,12 @@
 ---
 name: "cozmos-curator"
-description: "Instructions on how to use the Cozmos Curator MCP"
+description: "Use when building or editing a Cozmos Curator sphere through the WebMCP tools the Curator web page provides."
 ---
 
 # Core guidelines
 
-Curator provides an MCP in `document.modelContext`.
-Avoid using browser debug for curator work when at all possible. Use `capture-`  MCP tools to look at the canvas and various assets. Do not simulate clicks or mouse movements, use direct MCP tools instead. If the necessary MCP tool is missing, mention the limitation to the user, and only simulate manual actions when the user approves it.
+The Curator web page provides its tools through WebMCP, in `document.modelContext`.
+Avoid using browser debug for curator work when at all possible. Use `capture-` MCP tools to look at the canvas and various assets. Do not simulate clicks or mouse movements, use direct MCP tools instead. If the necessary MCP tool is missing, mention the limitation to the user, and only simulate manual actions when the user approves it.
 Run `snapshot` once after every prompt, to allow the user to undo/redo your work
 When starting from an empty sphere, run `planogram-save` yourself after every prompt. If there was an existing design, save only when requested by the user, but prompt them to save periodically.
 
