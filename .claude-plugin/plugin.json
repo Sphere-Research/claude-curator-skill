@@ -1,6 +1,6 @@
 {
   "name": "cozmos-curator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Guides Claude in designing 3D spherical websites with the WebMCP tools built into the Cozmos Curator web page.",
   "author": { "name": "Sphere Research Ltd" },
   "license": "Apache-2.0",
