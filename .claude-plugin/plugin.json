@@ -1,1 +1,7 @@
-{"name": "cozmos-curator", "description": "Instructions on how to use the Cozmos Curator MCP"}
+{
+  "name": "cozmos-curator",
+  "version": "0.1.0",
+  "description": "Instructions on how to use the Cozmos Curator MCP",
+  "author": { "name": "Cozmos team" },
+  "license": "Apache-2.0"
+}
