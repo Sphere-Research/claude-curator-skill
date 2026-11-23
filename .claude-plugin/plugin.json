@@ -9,5 +9,6 @@
   "documentationUrl": "https://learn.cozmos.com/",
   "supportUrl": "https://learn.cozmos.com/help/support",
   "privacyPolicyUrl": "https://learn.cozmos.com/privacy-policy",
-  "termsOfServiceUrl": "https://learn.cozmos.com/terms-of-use"
+  "termsOfServiceUrl": "https://learn.cozmos.com/terms-of-use",
+  "repository": "https://github.com/Sphere-Research/claude-curator-skill"
 }
